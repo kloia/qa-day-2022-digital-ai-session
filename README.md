@@ -50,7 +50,7 @@ This project includes android test automation codes of device farm integration o
   ```
   
 # Project Configuration
-* ebay apk must be downloaded from <a href="https://www.apkmirror.com/apk/ebay-mobile/ebay/ebay-6-87-0-1-release/">apk mirror</a>.
+* ebay apk must be download from <a href="https://www.apkmirror.com/apk/ebay-mobile/ebay/ebay-6-87-0-1-release/">apk mirror</a>.
 
 * The downloaded apk should be placed under the apps folder in the project directory.
 
